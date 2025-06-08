@@ -14,10 +14,10 @@ public class Main {
         // Use the static methods you wrote in the Calculator class
         // to assign proper values to the four variables below
         // (instead of 0)
-        int sum = 0;
-        int difference = 0;
-        int product = 0;
-        int quotient = 0;
+        int sum = a + b;
+        int difference = a - b;
+        int product = a * b;
+        int quotient = a / b;
 
         System.out.println("The sum is " + sum);
         System.out.println("The difference is " + difference);
